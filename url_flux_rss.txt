@@ -1,0 +1,6 @@
+https://feeds.arstechnica.com/arstechnica/index
+https://rss.slashdot.org/Slashdot/slashdotMain
+https://hnrss.org/frontpage
+https://feeds.feedburner.com/Kulturegeek
+https://www.tomsguide.fr/feed/
+https://www.frandroid.com/feed
