@@ -59,7 +59,7 @@ Ce projet est un projet python qui permet de récupérer des articles via un flu
    ou
 
    ```bash
-   python main.py
+   python3 main.py
    ```
 
 ## Execution du script
